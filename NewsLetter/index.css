@@ -1,0 +1,24 @@
+.nav{
+    text-decoration: none;
+    text-align: center;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color:blue;
+    word-spacing: 10px;
+}
+
+  a:link {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 120%;
+    
+  }
+  .head{
+    font-size: 200%;
+    background-color: lightblue;
+    font-family: cursive;
+    text-align: center;
+  }
+  
