@@ -7,6 +7,17 @@
     background-color:blue;
     word-spacing: 10px;
 }
+@media (min-width: 600px) {
+                body {
+                    background-color: red;
+ }
+ }
+ @media (max-width: 599px) {
+                body {
+                    background-color: blue;
+                }
+            }
+    
 
   a:link {
     color: rgb(255, 255, 255);
