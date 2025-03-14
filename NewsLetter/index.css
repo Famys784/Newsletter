@@ -45,6 +45,18 @@
 
 @media (max-width: 599px) {
   .nav {
-      background-color: yellow;
+      background-color: cadetblue;
+      color: cyan;
+  }
+} 
+.TechNews img {
+  width: 300px; /* Default width for larger screens */
+  height: 200px;
+  margin-bottom: 20px;
+}
+/* Media query for smaller screens (e.g., mobile devices) */
+@media (max-width: 768px) {
+  .TechNews img {
+      width: 100%; /* Full width on smaller screens */
   }
 }
